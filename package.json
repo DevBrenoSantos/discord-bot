@@ -7,5 +7,10 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@distube/ytdl-core": "^4.13.4",
+    "@types/tough-cookie": "^4.0.5",
+    "discord.js": "^14.15.3"
   }
 }
